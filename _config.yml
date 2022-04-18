@@ -9,13 +9,13 @@ baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Leshan Zhao # add your name
+author-pic: photo1.jpg
+about-author: My name is Leshan Zhao. I’m currently a computer science student in Auburn University.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
+email: leshanzhao@link.cuhk.edu.cn
+phone: (334)559-2626
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: artemsheludko # Add your Github handle
