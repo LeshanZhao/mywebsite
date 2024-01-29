@@ -3,17 +3,14 @@ This is my personal webpage is currently under construction, more things are com
 
 [Link to this page](https://LeshanZhao.github.io)
 
-### Try 2
+### Try 1
 
 <iframe height="400" width="100%" frameborder="no" src="https://leshanzhao.shinyapps.io/LogisticRegression-Demo/"> </iframe>
 
-### Try 1
-<iframe height="400" width="100%" frameborder="no" src="[https://datasciencegenie.shinyapps.io/MyShinyApp/](https://leshanzhao.shinyapps.io/LogisticRegression-Demo/)"> </iframe>
-<iframe id="example1" src="https://gallery.shinyapps.io/goog-trend-index/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
+### Try 2
+<iframe id="example1" src="https://leshanzhao.shinyapps.io/LogisticRegression-Demo/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
 
 
-
-### Try 3
 
 ### Leshan Zhao
 Hi there, I am Leshan, a Computer Science M.S. candidate at Auburn University in the State of Alabama.
