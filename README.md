@@ -2,13 +2,7 @@
 This is my personal webpage is currently under construction, more things are coming soon (very soon)!
 
 [Link to this page](https://LeshanZhao.github.io)
-### Try 2
-
-<iframe height="400" width="100%" frameborder="no" src="https://leshanzhao.shinyapps.io/LogisticRegression-Demo/"> </iframe>
-
-### Try 1
-<iframe height="400" width="100%" frameborder="no" src="[https://datasciencegenie.shinyapps.io/MyShinyApp/](https://leshanzhao.shinyapps.io/LogisticRegression-Demo/)"> </iframe>
-
+### Try 3
 
 ### Leshan Zhao
 Hi there, I am Leshan, a Computer Science M.S. candidate at Auburn University in the State of Alabama.
