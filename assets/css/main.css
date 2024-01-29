@@ -1915,6 +1915,14 @@ button,
   #search form input[type="text"] {
     padding-right: 2.75em; }
 
+/* 新增加的图片样式 */
+.profile-photo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 #sidebar {
   -moz-flex-grow: 0;
   -webkit-flex-grow: 0;
