@@ -2280,3 +2280,7 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+#RShinyApp-sidebar {
+    margin-left: 20px; /* 添加20px的左外边距 */
+    }
